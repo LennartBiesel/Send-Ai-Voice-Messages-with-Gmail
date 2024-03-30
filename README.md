@@ -1,7 +1,7 @@
 # Send-Ai-Voice-Messages-with-Gmail
 How to send AI Voice Messges with Gmail on a Flask Server with the ElevenLabs API.
 
-https://youtu.be/k32zJC_gnOU
+[![Watch the video](https://img.youtube.com/vi/k32zJC_gnOU/0.jpg)](https://www.youtube.com/watch?v=k32zJC_gnOU)
 
 1. Create an ElevenLabs Account and Get the API Key
 2. Create a SendGrip Account and Get the API Key
